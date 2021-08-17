@@ -1,4 +1,8 @@
-# Face Recognition (Coding with Python)
+<a> 
+   <div align="center"> <h1>Face Recognition (Coding with Python)</h1> 
+   <img border="0" src="/icon.gif" width="400" height="300" >
+   </div>
+</a>
 
 - #### A few python modules and packages are required to download in order to complete this project and have it run properly.
      - [Install Visual Studio Community](https://visualstudio.microsoft.com/vs/community) and then downloading Desktop Development with C++ packages.
