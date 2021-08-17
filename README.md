@@ -1,6 +1,6 @@
 <a> 
    <div align="center"> <h1>Face Recognition (Coding with Python)</h1> 
-   <img border="0" src="/icon.gif" width="400" height="300" >
+   <img border="0" src="/icon.gif" width="320" height="240" >
    </div>
 </a>
 
