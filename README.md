@@ -15,5 +15,3 @@
 pip install -r requirements.txt
 
 ```
-
-<img border="0" src="/flag-round-250.png" width="70" height="70" >
